@@ -1,0 +1,10 @@
+Hola estoy escribiendo la primera línea de nuestro archivo.
+
+Vamos a simular que esto es un archivo de configuración.
+
+Nombre completo = Ricardo Muñoz Bolaños
+Edad = 30 años (todo un don jajaja :C)
+Color favorito = azul
+Comida favorita = tacos
+Videojuego favorito = GTA IV
+SO favorito = Open Suse
