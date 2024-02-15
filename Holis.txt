@@ -5,6 +5,7 @@ Vamos a simular que esto es un archivo de configuración.
 Nombre completo = Ricardo Muñoz Bolaños
 Edad = 30 años (todo un don jajaja :C)
 Color favorito = azul
-Comida favorita = tacos
-Videojuego favorito = GTA IV
+Comida favorita = tacos de carnitas
+Videojuego favorito = Fortnite
 SO favorito = Open Suse
+
