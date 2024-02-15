@@ -8,4 +8,4 @@ Color favorito = azul
 Comida favorita = tacos de carnitas
 Videojuego favorito = Fortnite
 SO favorito = Open Suse
-
+Asignatura favorita = Gestión de sistemas operativos
